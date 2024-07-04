@@ -181,8 +181,6 @@ nav a {
 
 .menu-item {
   display: flex;
-  /* background-color: rgb(255, 255, 255); */
-  /* color: #2f3035 !important; */
   color: white !important;
   padding: 0.5em;
   border-radius: 0.15em;
@@ -214,7 +212,6 @@ nav a {
 .menu-item-desc {
   line-height: 1.6;
   text-align: left;
-  /* color: #2f3035 !important; */
 }
 
 @media screen and (min-width: 992px) {
